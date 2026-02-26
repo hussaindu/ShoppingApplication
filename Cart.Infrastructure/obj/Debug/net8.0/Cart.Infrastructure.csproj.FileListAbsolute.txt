@@ -1,0 +1,17 @@
+E:\.Net_CleanArchiteure\Ecommerce1\Cart.Infrastructure\bin\Debug\net8.0\Cart.Infrastructure.deps.json
+E:\.Net_CleanArchiteure\Ecommerce1\Cart.Infrastructure\bin\Debug\net8.0\Cart.Infrastructure.runtimeconfig.json
+E:\.Net_CleanArchiteure\Ecommerce1\Cart.Infrastructure\bin\Debug\net8.0\Cart.Infrastructure.dll
+E:\.Net_CleanArchiteure\Ecommerce1\Cart.Infrastructure\bin\Debug\net8.0\Cart.Infrastructure.pdb
+E:\.Net_CleanArchiteure\Ecommerce1\Cart.Infrastructure\bin\Debug\net8.0\Cart.Domain.dll
+E:\.Net_CleanArchiteure\Ecommerce1\Cart.Infrastructure\bin\Debug\net8.0\Cart.Domain.pdb
+E:\.Net_CleanArchiteure\Ecommerce1\Cart.Infrastructure\obj\Debug\net8.0\Cart.Infrastructure.csproj.AssemblyReference.cache
+E:\.Net_CleanArchiteure\Ecommerce1\Cart.Infrastructure\obj\Debug\net8.0\Cart.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net_CleanArchiteure\Ecommerce1\Cart.Infrastructure\obj\Debug\net8.0\Cart.Infrastructure.AssemblyInfoInputs.cache
+E:\.Net_CleanArchiteure\Ecommerce1\Cart.Infrastructure\obj\Debug\net8.0\Cart.Infrastructure.AssemblyInfo.cs
+E:\.Net_CleanArchiteure\Ecommerce1\Cart.Infrastructure\obj\Debug\net8.0\Cart.Infrastructure.csproj.CoreCompileInputs.cache
+E:\.Net_CleanArchiteure\Ecommerce1\Cart.Infrastructure\obj\Debug\net8.0\Cart.Inf.2ECA09D4.Up2Date
+E:\.Net_CleanArchiteure\Ecommerce1\Cart.Infrastructure\obj\Debug\net8.0\Cart.Infrastructure.dll
+E:\.Net_CleanArchiteure\Ecommerce1\Cart.Infrastructure\obj\Debug\net8.0\refint\Cart.Infrastructure.dll
+E:\.Net_CleanArchiteure\Ecommerce1\Cart.Infrastructure\obj\Debug\net8.0\Cart.Infrastructure.pdb
+E:\.Net_CleanArchiteure\Ecommerce1\Cart.Infrastructure\obj\Debug\net8.0\Cart.Infrastructure.genruntimeconfig.cache
+E:\.Net_CleanArchiteure\Ecommerce1\Cart.Infrastructure\obj\Debug\net8.0\ref\Cart.Infrastructure.dll

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Cart.API.Controllers.Cart_Controller",
+    "Method": "Add",
+    "RelativePath": "api/Cart_",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cmd",
+        "Type": "Cart.Application.Commands.AddToCartCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cart.API.Controllers.Cart_Controller",
+    "Method": "Get",
+    "RelativePath": "api/Cart_",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

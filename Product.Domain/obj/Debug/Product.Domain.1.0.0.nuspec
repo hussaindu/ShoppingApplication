@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Product.Domain</id>
+    <version>1.0.0</version>
+    <authors>Product.Domain</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\.Net_CleanArchiteure\Ecommerce1\Product.Domain\bin\Debug\net8.0\Product.Domain.dll" target="lib\net8.0\Product.Domain.dll" />
+  </files>
+</package>
